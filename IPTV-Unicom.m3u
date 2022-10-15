@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",BRTV北京卫视[高清]
 http://192.168.50.1:8888/rtp/239.3.1.241:8000
-#EXTINF:-1 tvg-id="" tvg-name="BRTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" ,BRTV新闻[高清]
+#EXTINF:-1 tvg-id="" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%B0%E9%97%BB.png" ,BRTV新闻[高清]
 http://192.168.50.1:8888/rtp/239.3.1.159:8000
-#EXTINF:-1 tvg-id="" tvg-name="BRTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E5%BD%B1%E8%A7%86.png" ,BRTV影视[高清]
+#EXTINF:-1 tvg-id="" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E5%BD%B1%E8%A7%86.png" ,BRTV影视[高清]
 http://192.168.50.1:8888/rtp/239.3.1.158:8000
-#EXTINF:-1 tvg-id="" tvg-name="BRTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" ,BRTV文艺[高清]
+#EXTINF:-1 tvg-id="" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E6%96%87%E8%89%BA.png" ,BRTV文艺[高清]
 http://192.168.50.1:8888/rtp/239.3.1.242:8000
-#EXTINF:-1 tvg-id="" tvg-name="BRTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E8%B4%A2%E7%BB%8F.png" ,BRTV财经[高清]
+#EXTINF:-1 tvg-id="" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E8%B4%A2%E7%BB%8F.png" ,BRTV财经[高清]
 http://192.168.50.1:8888/rtp/239.3.1.116:8000
-#EXTINF:-1 tvg-id="" tvg-name="BRTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png" ,BRTV生活[高清]
+#EXTINF:-1 tvg-id="" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%94%9F%E6%B4%BB.png" ,BRTV生活[高清]
 http://192.168.50.1:8888/rtp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="" tvg-name="BRTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E9%9D%92%E5%B9%B4.png" ,BRTV青年[高清]
+#EXTINF:-1 tvg-id="" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E9%9D%92%E5%B9%B4.png" ,BRTV青年[高清]
 http://192.168.50.1:8888/rtp/239.3.1.118:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BRTV纪实科教[高清]
 http://192.168.50.1:8888/rtp/239.3.1.115:8000
